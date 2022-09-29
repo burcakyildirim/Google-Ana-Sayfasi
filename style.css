@@ -1,0 +1,18 @@
+* {
+    font-family:Lucida Grande, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+table {
+    font-size:inherit;
+}
+.mail {
+    border: 2px solid #000 ;
+    border-radius: 3px;
+}
+a:hover {
+    text-decoration:underline;
+}
+a button:hover {
+    text-decoration:none;
+  color:#ff0
+}
